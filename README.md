@@ -7,5 +7,5 @@
     srcset="https://github-readme-stats.vercel.app/api?username=loplayersolo&show_icons=true"
     media="(prefers-color-scheme: dracula), (prefers-color-scheme: dracula)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=loplayersolo&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=loplayersolo&show_icons=true&theme=dracula" />
 </picture>
