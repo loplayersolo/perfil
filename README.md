@@ -6,7 +6,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loplayersolo&hide=html&layout=compact&theme=default"/>
   </td>
 </table>
-<img src=
+<img src="img banner/1.png"/>
  <table>
 <td>
 <h1 align="left">Olá, me chamo Luis, seja bem vindo ao meu perfil!!</h1>
@@ -17,7 +17,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu trabalho com</h2>
 
 ###
 
