@@ -6,7 +6,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loplayersolo&hide=html&layout=compact&theme=default"/>
   </td>
 </table>
-  <table>
+<img src=
+ <table>
 <td>
 <h1 align="left">Olá, me chamo Luis, seja bem vindo ao meu perfil!!</h1>
 
@@ -35,7 +36,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
  
-<a href= https://www.youtube.com/>
+<a href= https://www.youtube.com/@kyastro>
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /> 
 </a>
  
